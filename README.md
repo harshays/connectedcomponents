@@ -1,5 +1,5 @@
 ## Number of Connected Components in a Graph: Estimation via Counting Patterns
-----
+
 This repository contains code and data to reproduce the experiments of our paper "Number of Connected Components in a Graph: Estimation via Counting Patterns". The datasets used in our experiments can be found in the datasets folder.
 
 If our code helps you in your project, please cite the following publication:
